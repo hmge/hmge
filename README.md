@@ -10,9 +10,9 @@
 - 기술 스택: Flask, Django, FastAPI, nextcord, pycord, discord.py 등
 
 ## 📫 연락처 & 정보
-- 이메일: hmog37@gmail.com
+<!-- 이메일: devhmge -->
 - 디스코드: https://discord.gg/8PjE5q9jRr
-- 웹사이트: 
+- 웹사이트: https://hmog.dev
 
 ## 😀 스탯
 ![hmge's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmge&show_icons=true)
