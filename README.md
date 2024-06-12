@@ -17,9 +17,8 @@
   - 웹사이트:
     - 개발중!
 ## 📫 연락처 & 정보
-- 웹사이트: https://hmog.dev
-- 이메일: devhmge@gmail.com
+- 이메일: hmog37@naver.com
 
 ## 😀 스탯
 ![hmge's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmge&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)](https://github.com/hmge/github-readme-stats)
+<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)](https://github.com/hmge/github-readme-stats) -->
