@@ -19,6 +19,6 @@
 ## 📫 연락처 & 정보
 - 이메일: hmog37@naver.com
 
-## 😀 스탯
+## 📊 스탯
 ![hmge's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmge&show_icons=true)
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)](https://github.com/hmge/github-readme-stats) -->
