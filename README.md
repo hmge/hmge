@@ -21,10 +21,10 @@
   - 웹사이트:
     - 개발중!
 
-## 📫 연락처/SNS
+### 📫 연락처/SNS
 - 이메일: hmog37@naver.com
 - 인스타: https://instagram.com/hmogio
 - 트위터: https://x.com/hmogio
-## 📊 스탯
+###  📊 스탯정보
 ![hmge's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmge&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)](https://github.com/hmge/github-readme-stats)
