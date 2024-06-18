@@ -23,7 +23,8 @@
   - 알고리즘 문제
 ### 📂 포트폴리오: [링크](https://github.com/hmge/hmge/blob/main/portfolio.md)
 ###  📊 스탯정보
-![hmge's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmge&show_icons=true)
+![hmge's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmge\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![hmge's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmge)](https://github.com/hmge/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)](https://github.com/hmge/github-readme-stats)
 ### 📫 연락처/SNS
 - 이메일: hmog37@naver.com
