@@ -24,6 +24,6 @@
 ### 📂 포트폴리오: [링크](https://github.com/hmge/hmge/blob/main/portfolio.md)
 ###  📊 스탯정보
 ![hmge의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=hmge\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)](https://github.com/hmge/github-readme-stats)
+[![최상위 언어들](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)](https://github.com/hmge/github-readme-stats)
 ### 📫 연락처/SNS
 - 이메일: hmog37@naver.com
