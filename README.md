@@ -1,4 +1,6 @@
-<h1 style="text-align: center;">hmog</h1>
+<div align="center">
+    <h1>hmog (@hmge)</h1>
+</div>
 > 😊 안녕하세요! 저는 여러 프로젝트를 개발하고 있으며, 여러 팀에서 개발하고 있습니다!
 
 ### 💼 개발경력
