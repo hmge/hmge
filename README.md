@@ -9,7 +9,7 @@
 - [Python](https://github.com/topics/python): 2020년 6월~ | ★★★☆☆
 - [C언어](https://github.com/topics/c): 2022년 3월~ | ★☆☆☆☆
 - [C#]: 2022년 3월~ | ★☆☆☆☆
-<!-- - [Javascript]: 2024년 2월~ | ☆☆☆☆☆ -->
+- [Javascript]: 2024년 2월~ | ☆☆☆☆☆
  > [더 자세히 보기](https://github.com/hmge/hmge/blob/main/stack.md)
 
 ### 🌱 개발목표
