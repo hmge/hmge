@@ -5,8 +5,8 @@
 <h4> 😊 안녕하세요! 저는 여러 프로젝트를 개발하고 있으며, 여러 팀에서 개발하고 있습니다!</h4>
 
 ### 🖥️ 개발
-  - [💼 개발경력](https://github.com/hmge/hmge/blob/main/stack.md)
-  - [📂 포트폴리오](https://github.com/hmge/hmge/blob/main/portfolio.md)
+  - [💼 개발 경력/스택](https://github.com/hmge/hmge/blob/main/stack.md)
+  - [📂 포트폴리오/프로젝트](https://github.com/hmge/hmge/blob/main/portfolio.md)
 
 ### 🌱 개발목표
 - 다양한 창의적인 서비스들 만들기
