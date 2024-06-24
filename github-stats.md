@@ -1,1 +1,0 @@
-![hmge의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=hmge\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
