@@ -9,7 +9,7 @@
         - [Python](https://github.com/topics/python): 2020년~ | ★★★☆☆
         - [C언어](https://github.com/topics/c): 2022년~ | ★☆☆☆☆
         - [C#]: 2022년~ | ★☆☆☆☆
-        - [Javascript]: 2024년~ | ☆☆☆☆☆
+        - [Javascript](https://github.com/topics/javascript): 2024년~ | ☆☆☆☆☆
 
   - [📂 포트폴리오/프로젝트](https://github.com/hmge/hmge/blob/main/portfolio.md)
 
