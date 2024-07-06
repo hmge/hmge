@@ -23,7 +23,6 @@
 - 클라우드 서버 (**G**cp, **A**ws, **O**ci 등)
 
 ###  📊 스탯정보
-[![hmge의 깃허브 스탯 (다크)](https://github-readme-stats.vercel.app/api?username=hmge\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![hmge의 깃허브 스탯 (라이트)](https://github-readme-stats.vercel.app/api?username=hmge\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![hmge의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=hmge\&show_icons=true\&theme=default)]()
 
-[![hmge의 최상위 언어들](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)](https://github.com/hmge/github-readme-stats)
+[![hmge의 최상위 언어들](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)]()
