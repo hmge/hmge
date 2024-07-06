@@ -20,7 +20,7 @@
 ### ✨ 관심분야
 - AI (인공지능), 빅데이터, 클라우드 등
 - 데이터베이스, API
-- 클라우드 서버 (gcp, aws, 등)
+- 클라우드 서버 (**G**cp, **A**ws, **O**ci 등)
 
 ###  📊 스탯정보
 [![hmge의 깃허브 스탯 (다크)](https://github-readme-stats.vercel.app/api?username=hmge\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
