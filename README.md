@@ -10,7 +10,7 @@
         - ~~[Javascript](https://github.com/topics/javascript): 2024년~ | ☆☆☆☆☆~~
 
   - [📂 포트폴리오/프로젝트](https://github.com/hmge/hmge/blob/main/portfolio.md)
-  - 
+
 ###  📊 스탯정보
 [![hmge의 깃허브 스탯](https://github-readme-stats.vercel.app/api?username=hmge\&show_icons=true\&theme=default)]()
 [![hmge의 최상위 언어들](https://github-readme-stats.vercel.app/api/top-langs/?username=hmge&layout=compact)]()
